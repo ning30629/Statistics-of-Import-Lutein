@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-import matplotlib
 
 csv_path = "D:/myprojects/import_lutein/lutein.csv"
 df = pd.read_csv(csv_path)

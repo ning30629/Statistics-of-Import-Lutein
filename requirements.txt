@@ -7,3 +7,4 @@ selenium
 jieba
 wordcloud
 Pillow
+pandas
